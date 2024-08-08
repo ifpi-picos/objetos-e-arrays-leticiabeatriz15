@@ -26,6 +26,7 @@ while(repete){
         case 3:
             atualize()
             break;
+            
         default:
             console.log('PROGRAMA ENCERRADO!')
             repete = false
